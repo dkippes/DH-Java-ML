@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 @RequestMapping("/")
 public class CodigoMorseController {
 
-    @GetMapping("/codigoMorse")
+    @PostMapping("/codigoMorse")
     public CodigoMorse codigificarACaracter(
             @RequestParam(value = "morse", defaultValue = "") String morse
     ) {
