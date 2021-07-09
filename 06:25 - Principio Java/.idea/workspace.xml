@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dec9523f-629e-4348-8d27-ba33dfd84cf4" name="Default Changelist" comment="" />
+    <list default="true" id="dec9523f-629e-4348-8d27-ba33dfd84cf4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../SpringBoot/codigoMorse/src/main/java/com/example/codigomorse/controllers/CodigoMorseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot/codigoMorse/src/main/java/com/example/codigomorse/controllers/CodigoMorseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot/demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot/demo/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot/demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot/demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot/demo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot/demo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot/demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot/demo/src/main/java/com/example/demo/TestApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot/demo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot/demo/src/test/java/com/example/demo/TestApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot/numerosRomanos/src/main/java/com/example/numerosromanos/controllers/NumeroRomanoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot/numerosRomanos/src/main/java/com/example/numerosromanos/controllers/NumeroRomanoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBoot/numerosRomanos/src/main/java/com/example/numerosromanos/models/NumeroRomano.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringBoot/numerosRomanos/src/main/java/com/example/numerosromanos/models/NumeroRomano.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,19 +37,6 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,6 +48,7 @@
       <workItem from="1624980671287" duration="45000" />
       <workItem from="1624980729005" duration="156000" />
       <workItem from="1624980897201" duration="152000" />
+      <workItem from="1625688219811" duration="20000" />
     </task>
     <servers />
   </component>

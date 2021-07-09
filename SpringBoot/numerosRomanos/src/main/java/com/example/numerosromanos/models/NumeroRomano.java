@@ -2,7 +2,9 @@ package com.example.numerosromanos.models;
 
 import lombok.*;
 
-@Data
+@Data // Data trae un toString
+// @Getter
+// @Setter
 @AllArgsConstructor
 @NoArgsConstructor
 public class NumeroRomano {

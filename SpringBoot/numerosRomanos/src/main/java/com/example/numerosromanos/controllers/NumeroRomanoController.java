@@ -5,7 +5,7 @@ import com.example.numerosromanos.utils.ConversorDeNumeros;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping("/")
+// @RequestMapping("/") -> Si es / entonces esto puede no estar
 public class NumeroRomanoController {
 
     @GetMapping("/numeroACambiar/{numeroDecimal}")
