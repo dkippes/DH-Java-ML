@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9087acf1-c62e-4506-a724-534cff509539" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../StarWarsTest/src/test/java/com/example/starwars/integration/StarWarsApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../obtener-diploma/src/main/java/com/example/obtenerdiploma2/repositories/CertificateRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../obtener-diploma/src/main/java/com/example/obtenerdiploma2/repositories/CertificateRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../obtener-diploma/src/test/java/com/example/obtenerdiploma2/unit/exceptions/CertificateException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../obtener-diploma/src/test/java/com/example/obtenerdiploma2/unit/repositories/CertificateRepositoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../obtener-diploma/src/test/java/com/example/obtenerdiploma2/unit/utils/CertificateDTOConstructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../obtener-diploma/src/test/java/com/example/obtenerdiploma2/unit/utils/StudentDTOConstructors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringBoot/CalcularCaloriasV2/src/main/java/com/example/calcularcaloriasv2/controllers/CalcularCaloriasRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SpringBoot/CalcularCaloriasV2/src/main/java/com/example/calcularcaloriasv2/controllers/CalcularCaloriasRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringBoot/CalcularCaloriasV2/src/main/java/com/example/calcularcaloriasv2/exceptions/ApiControllerAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SpringBoot/CalcularCaloriasV2/src/main/java/com/example/calcularcaloriasv2/exceptions/ApiControllerAdvice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringBoot/CalcularCaloriasV2/src/main/java/com/example/calcularcaloriasv2/exceptions/ErrorMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SpringBoot/CalcularCaloriasV2/src/main/java/com/example/calcularcaloriasv2/exceptions/ErrorMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringBoot/CalcularCaloriasV2/src/main/java/com/example/calcularcaloriasv2/model/dtos/DishDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SpringBoot/CalcularCaloriasV2/src/main/java/com/example/calcularcaloriasv2/model/dtos/DishDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringBoot/CalcularCaloriasV2/src/main/java/com/example/calcularcaloriasv2/model/dtos/DishResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SpringBoot/CalcularCaloriasV2/src/main/java/com/example/calcularcaloriasv2/model/dtos/DishResponseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringBoot/CalcularCaloriasV2/src/main/java/com/example/calcularcaloriasv2/model/dtos/IngredientDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SpringBoot/CalcularCaloriasV2/src/main/java/com/example/calcularcaloriasv2/model/dtos/IngredientDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringBoot/CalcularCaloriasV2/src/main/java/com/example/calcularcaloriasv2/services/DishCaloriesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SpringBoot/CalcularCaloriasV2/src/main/java/com/example/calcularcaloriasv2/services/DishCaloriesService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../SpringBoot/CalcularCaloriasV2/src/main/java/com/example/calcularcaloriasv2/services/DishCaloriesServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../SpringBoot/CalcularCaloriasV2/src/main/java/com/example/calcularcaloriasv2/services/DishCaloriesServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1vfkSUS4KorGDpQrLYcoFZ3uX0W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9087acf1-c62e-4506-a724-534cff509539" name="Default Changelist" comment="" />
+      <created>1626960534676</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626960534676</updated>
+      <workItem from="1626960538377" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
